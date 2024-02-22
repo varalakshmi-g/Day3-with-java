@@ -26,3 +26,8 @@ system.out.println("varalakshmi");
 
 }
 
+Along with this programming I learned about variable. THere are mainly two variables called as instance and local variables. 
+
+
+Also learned what are  pass by value and pass by reference. And what is the difference between them.
+
